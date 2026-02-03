@@ -1,4 +1,4 @@
-# andrew-lang
+# Andrew Lang
 
 All epubs are wrapped in a .zip file to avoid GitHub download issues.
 
